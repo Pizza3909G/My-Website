@@ -241,7 +241,7 @@
                         <div class="center">
                             <div class="left">
                                 <div class="text">My Github's</div>
-                                <a class="ipCopy">Click to view!</a>
+                                <a class="ipCopy" href="https://github.com/Pizza3909G">Click to view!</a>
                             </div>
                             <div class="pulse infinite animated">
                                 <img id="logo" class="logo" src="img/logo.jpg" loading="lazy">
